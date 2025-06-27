@@ -16,6 +16,13 @@
 - **Modern, Clean UI**: Designed for a smooth and enjoyable experience on all Android devices.
 
 ---
+## Images
+![{AD2C1AF6-3775-459F-ADEF-4609E02E2B08}](https://github.com/user-attachments/assets/59b49039-06a4-44e4-96a3-40c35ce09483)
+![{07C7BB12-3D9F-4A6B-A5E5-3F157C5D2D96}](https://github.com/user-attachments/assets/6e16a96c-b4e3-4f85-9214-0013f51570ac)
+![{2E9FC36F-7019-4839-BB47-F0573597A4F5}](https://github.com/user-attachments/assets/df273c5d-c30a-43d8-992c-e6456fe2f1d1)
+![{A0AB9207-F3C7-44E9-A420-F2B2834D827B}](https://github.com/user-attachments/assets/585653cb-7ad6-49eb-8bc5-404e97a33a28)
+![{604B9731-F152-4960-BD99-F4CCA8E3A2CB}](https://github.com/user-attachments/assets/6518613b-2e3d-4b5e-b850-adf73d7cb45c)
+![{CB490452-B467-4E24-AEDA-CE6F286A5E40}](https://github.com/user-attachments/assets/9b573050-6ec9-4fd2-9fcc-5315716cfbad)
 
 ## Download & Installation
 
@@ -29,7 +36,7 @@
    - Follow the on-screen instructions to complete the installation.
 
 3. **Open the App**
-   - Find "Bhagwat Gita By RR" in your app drawer and start exploring!
+   - Find "Bhagwat Gita By RR" in your app drawer and start exploring
 
 ---
 
