@@ -20,7 +20,7 @@
 ## Download & Installation
 
 1. **Download the APK**
-   - Go to the [Releases](./releases) section of this repository.
+   - Go to the [Releases](https://github.com/Rudrar77/Bhagwat-Gita-App) section of this repository.
    - Download the latest `BhagwatGitaByRR.apk` file.
 
 2. **Install the APK**
